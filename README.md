@@ -15,3 +15,4 @@ This game's level is based on El Sanatorio Duran (real location).
 - Interior textures
 - Functionality
 - Folliage
+- Decrease battery only when light on
