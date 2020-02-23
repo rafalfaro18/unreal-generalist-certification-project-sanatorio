@@ -24,9 +24,9 @@ This game's level is based on El Sanatorio Duran (real location).
 * Arreglar los agujeros entre BSPs. Visibilty Collision.
 * 25% vacio deberia llenarlo piedras objetos o no hacerlo navegable.
 * Edificio vacio de atras puede quedar ahi, no navegable. No parte del juego.
-* Solucionar oscuridad con algun tipo de indirect light.
-* Twiquear el color para que no se vea azul.
-* Quitar el direct light (el sol) y sustituir con otra cosa. Para que no haya luz desde el suelo.
+* Solucionar oscuridad con algun tipo de indirect light ✔.
+* Twiquear el color para que no se vea azul ✔.
+* Quitar el direct light (el sol) y sustituir con otra cosa ✔. Para que no haya luz desde el suelo ✔.
 
 #### Blueprints - To Do:
 
