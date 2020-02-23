@@ -21,7 +21,7 @@ This game's level is based on El Sanatorio Duran (real location).
 * Comedor: mesas largas.
 * Orden de navegacion, no sabemos como debe proceder el jugador, debe estar mas claro.
 * Terminar las ventanas.
-* Arreglar los agujeros entre BSPs. Visibilty Collision.
+* Arreglar los agujeros entre BSPs. Visibilty Collision ✔.
 * 25% vacio deberia llenarlo piedras objetos o no hacerlo navegable.
 * Edificio vacio de atras puede quedar ahi, no navegable. No parte del juego.
 * Solucionar oscuridad con algun tipo de indirect light ✔.
