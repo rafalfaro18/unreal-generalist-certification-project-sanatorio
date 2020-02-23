@@ -41,8 +41,8 @@ This game's level is based on El Sanatorio Duran (real location).
 * Actualmente tengo poco scattering de iluminacion indirecta, solucionarlo.
 * Revisar material del piso, esta muy plano en especial el zacate.
 * Meterle volumetric a la niebla.
-* Para arreglar el azul podria usar un emissive tambien.
-* A las luces del gate aumentarles el atenuation radius un poco pero arreglar primero el suelo para que no brille.
+* Para arreglar el azul podria usar un emissive tambien ✔.
+* A las luces del gate aumentarles el atenuation radius un poco pero arreglar primero el suelo para que no brille ✔.
 * Arreglar el material que brilla de las paredes (el anaranjado, plaster). Brillo espantoso. Roughness y luz indirecta del nivel.
 * Settings de iluminacion en general.
 * Material de las mesas.
