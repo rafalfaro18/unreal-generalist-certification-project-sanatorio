@@ -12,18 +12,17 @@ This game's level is based on El Sanatorio Duran (real location).
 
 #### Game Design - To Do:
 
-* Usar BSP en lugar de static mesh no es problema.
-* No es problema que haya areas no accesibles sin pintar.
-* Faltan detalles, espacios(cuartos) muy vacios. Historia (contexto).
+* Usar BSP en lugar de static mesh no es problema ✔.
+* No es problema que haya areas no accesibles sin pintar ✔.
+* Faltan detalles, espacios(cuartos) muy vacios. Historia (contexto). Ambientar la escena.
 * Vancas desordenadas ✔. Madera demasiado brillante.
 * Conectar los sotanos.
-* Ambientar la escena.
-* Comedor: mesas largas.
+* Comedor: mesas ✔.
 * Orden de navegacion, no sabemos como debe proceder el jugador, debe estar mas claro.
 * Terminar las ventanas.
 * Arreglar los agujeros entre BSPs. Visibilty Collision ✔.
 * 25% vacio deberia llenarlo piedras objetos o no hacerlo navegable.
-* Edificio vacio de atras puede quedar ahi, no navegable. No parte del juego.
+* Edificio vacio de atras puede quedar ahi, no navegable. No parte del juego ✔.
 * Solucionar oscuridad con algun tipo de indirect light ✔.
 * Twiquear el color para que no se vea azul ✔.
 * Quitar el direct light (el sol) y sustituir con otra cosa ✔. Para que no haya luz desde el suelo ✔.
