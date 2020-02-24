@@ -19,7 +19,7 @@ This game's level is based on El Sanatorio Duran (real location).
 * Conectar los sotanos.
 * Comedor: mesas ✔.
 * Orden de navegacion, no sabemos como debe proceder el jugador, debe estar mas claro.
-* Terminar las ventanas.
+* Terminar las ventanas ✔.
 * Arreglar los agujeros entre BSPs. Visibilty Collision ✔.
 * 25% vacio deberia llenarlo piedras objetos o no hacerlo navegable ✔.
 * Edificio vacio de atras puede quedar ahi, no navegable. No parte del juego ✔.
