@@ -38,7 +38,7 @@ This game's level is based on El Sanatorio Duran (real location).
 #### Asset Creator - To Do
 
 * Actualmente tengo poco scattering de iluminacion indirecta, solucionarlo.
-* Revisar material del piso, esta muy plano en especial el zacate.
+* Revisar material del piso, esta muy plano en especial el zacate ✔.
 * Meterle volumetric a la niebla.
 * Para arreglar el azul podria usar un emissive tambien ✔.
 * A las luces del gate aumentarles el atenuation radius un poco pero arreglar primero el suelo para que no brille ✔.
