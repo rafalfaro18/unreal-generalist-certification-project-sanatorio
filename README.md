@@ -16,7 +16,7 @@ This game's level is based on El Sanatorio Duran (real location).
 * No es problema que haya areas no accesibles sin pintar ✔.
 * Faltan detalles (en los sotanos añadir tuberias), espacios(cuartos) muy vacios. Historia (contexto). Ambientar la escena ✔.
 * Vancas desordenadas ✔. Madera demasiado brillante.
-* Conectar los sotanos.
+* Conectar los sotanos ✔.
 * Comedor: mesas ✔.
 * Orden de navegacion, no sabemos como debe proceder el jugador, debe estar mas claro.
 * Terminar las ventanas ✔.
