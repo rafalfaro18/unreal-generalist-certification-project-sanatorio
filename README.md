@@ -14,7 +14,7 @@ This game's level is based on El Sanatorio Duran (real location).
 
 * Usar BSP en lugar de static mesh no es problema ✔.
 * No es problema que haya areas no accesibles sin pintar ✔.
-* Faltan detalles (en los sotanos añadir tuberias), espacios(cuartos) muy vacios. Historia (contexto). Ambientar la escena.
+* Faltan detalles (en los sotanos añadir tuberias), espacios(cuartos) muy vacios. Historia (contexto). Ambientar la escena ✔.
 * Vancas desordenadas ✔. Madera demasiado brillante.
 * Conectar los sotanos.
 * Comedor: mesas ✔.
