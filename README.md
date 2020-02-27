@@ -31,7 +31,7 @@ This game's level is based on El Sanatorio Duran (real location).
 
 
 * Trabajr feedback en unlit para enfocarse en funcionalidad ✔
-* Prints si me da tiempo pasarlos a widgets de ui.
+* Prints si me da tiempo pasarlos a widgets de ui ✔.
 * Revisar logica de la bateria, si linterna esta apagada no deberia consumir bateria (cambiar rifle por linterna) ✔. 
 * Interfaz "Interaction" para los que repiten funcionalidad, NPCs overlaps para no repetir logica ✔.
 
