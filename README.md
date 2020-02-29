@@ -42,6 +42,6 @@ This game's level is based on El Sanatorio Duran (real location).
 * A las luces del gate aumentarles el atenuation radius un poco pero arreglar primero el suelo para que no brille ✔.
 * Arreglar el material que brilla de las paredes (el anaranjado, plaster). Brillo espantoso. Roughness y luz indirecta del nivel ✔.
 * Material de las mesas ✔.
-* Settings de iluminacion en general.
-* Actualmente tengo poco scattering de iluminacion indirecta, solucionarlo.
-* Meterle volumetric a la niebla.
+* Settings de iluminacion en general ✔.
+* Actualmente tengo poco scattering de iluminacion indirecta, solucionarlo ✔.
+* Meterle volumetric a la niebla ✔.
